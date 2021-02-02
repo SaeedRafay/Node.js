@@ -1,0 +1,10 @@
+body {
+  background-color: #eee;
+}
+h1 {
+  color: red;
+}
+#content {
+  color: blue;
+  font-weight: bold;
+}
